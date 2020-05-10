@@ -129,7 +129,7 @@ for better performance
 An easy multiple image picker controller for photo library with swipe select enabled.
 * IOS 13 Dark mode enabled 
 <p align="center">
-<a href="https://imgflip.com/gif/40vynj"><img src="https://imgflip.com/gif/40vynj.gif" title="CashBaba E-Wallet/></a>
+<a href="https://imgflip.com/gif/40vynj"><img src="https://imgflip.com/gif/40vynj" title="CashBaba E-Wallet/></a>
 </p>
 
 ## [SBAActionSheetPicker](https://github.com/shoaib-akhtar/SBAActionSheetPicker)
