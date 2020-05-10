@@ -1,7 +1,7 @@
-# IOS-Portfolio
-Professionally taught iOS Engineer with 7 years experience. 
-I have spent my career leading client-side iOS development in Denmark and Pakistan.
-I have done multiple iOS applications ranging from social apps, classified ads, photo/video , utilities , sports , productivity and  health & fitness . I have been very enthusiastic and passionate about my field and exploring more and more knowledge in it.
+# iOS Portfolio
+Professional iOS Engineer with 3+ years experience. 
+I have spent my career leading client-side iOS development.
+I have done multiple iOS applications ranging from social apps, classified ads, E-Wallet , productivity etc. I have been very enthusiastic and passionate about my field and exploring more and more knowledge in it.
 .
 # [Hidebox](https://itunes.apple.com/ph/app/hidebox/id1408444079?mt=8)
 An innovative, quick and easy way to keep track of your possessions giving you the ease of having the information on you when you need it the most.
@@ -118,8 +118,8 @@ Easy to use customised action sheet picker inspired by UIAlertController
 <a href="https://imgflip.com/gif/40vynj"><img src="https://imgflip.com/gif/40vynj" title="made at imgflip.com"/></a>
 </p>
 
-# Contributions/Link 
-## [Stackoverflow](https://stackoverflow.com/story/asifnewaz)
-## [Hackerrank](https://www.hackerrank.com/mail_asifnewaz)
-## [linkedin](https://www.linkedin.com/in/measifnewaz/)
+## Contributions/Link 
+*  [linkedin](https://www.linkedin.com/in/measifnewaz/)
+*  [Stackoverflow](https://stackoverflow.com/story/asifnewaz)
+*  [Hackerrank](https://www.hackerrank.com/mail_asifnewaz)
 
