@@ -108,35 +108,14 @@ Date extraction from response data
 <p align="center">
  <a href="https://raw.githubusercontent.com/exyte/ReadabilityKit/master/Assets/demo.gif"><img src="https://raw.githubusercontent.com/exyte/ReadabilityKit/master/Assets/demo.gif" title="Readability demo"/>
 </p>
- 
- ---
- 
-## [Smart Lazy Loading](https://github.com/jwd-ali/Smart-Lazy-Loading) 
-Fetch images from source url asynchronously on the basis of priority in Table or Collection View using NSCache and NSOperation
-for better performance
-
-### Technologies ###
-* Swift(5)
-* NSOperation 
-* NSOperationQueue with KVO
-* NSCache
-* NSUrlRequest 
-* NSUrlSession
 
 ---
-
-## [SBAImagePickerController](https://github.com/shoaib-akhtar/SBAImagePickerController) 
-An easy multiple image picker controller for photo library with swipe select enabled.
-* IOS 13 Dark mode enabled 
-<p align="center">
-<a href="https://imgflip.com/gif/40vynj"><img src="https://imgflip.com/gif/40vynj" title="CashBaba E-Wallet/></a>
-</p>
 
 ## [SBAActionSheetPicker](https://github.com/shoaib-akhtar/SBAActionSheetPicker)
 Easy to use customised action sheet picker inspired by UIAlertController
 
 <p align="center">
-<a href=""><img src="https://imgflip.com/gif/40vynj" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/40vynj"><img src="https://imgflip.com/gif/40vynj" title="made at imgflip.com"/></a>
 </p>
 
 # Stack over flow Contributions
