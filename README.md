@@ -118,5 +118,8 @@ Easy to use customised action sheet picker inspired by UIAlertController
 <a href="https://imgflip.com/gif/40vynj"><img src="https://imgflip.com/gif/40vynj" title="made at imgflip.com"/></a>
 </p>
 
-# Stack over flow Contributions
-[Link](https://stackoverflow.com/story/asifnewaz)
+# Contributions/Link 
+## [Stackoverflow](https://stackoverflow.com/story/asifnewaz)
+## [Hackerrank](https://www.hackerrank.com/mail_asifnewaz)
+## [linkedin](https://www.linkedin.com/in/measifnewaz/)
+
