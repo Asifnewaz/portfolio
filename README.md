@@ -136,7 +136,7 @@ An easy multiple image picker controller for photo library with swipe select ena
 Easy to use customised action sheet picker inspired by UIAlertController
 
 <p align="center">
-<a href="https://imgflip.com/gif/2bs8md"><img src="https://i.imgflip.com/2bs8md.gif" title="made at imgflip.com"/></a>
+<a href=""><img src="https://imgflip.com/gif/40vynj" title="made at imgflip.com"/></a>
 </p>
 
 # Stack over flow Contributions
