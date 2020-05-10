@@ -114,8 +114,9 @@ Date extraction from response data
 ## [SBAActionSheetPicker](https://github.com/shoaib-akhtar/SBAActionSheetPicker)
 Easy to use customised action sheet picker inspired by UIAlertController
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:177.78%;position:relative;"><iframe width="360" height="640" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/40vynj"></iframe></div><p><a href="https://imgflip.com/gif/40vynj">via Imgflip</a></p></div>
+<p align="center">
+<a href="https://imgflip.com/gif/40vynj"><img src="https://imgflip.com/gif/40vynj" title="made at imgflip.com"/></a>
+</p>
 
 # Stack over flow Contributions
-I am an active contributor on stackoverflow  : 
-https://stackoverflow.com/story/jawadali
+[Link](https://stackoverflow.com/story/asifnewaz)
