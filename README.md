@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/measifnewaz/" download><img src="images/Stackoverflow.png" width="180" height="30"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:mail.asifnewaz@gmail.com"><img src="images/Email.png" width="100" height="30"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/measifnewaz/" target="_blank"><img src="images/Linkedin.png" width="130" height="30" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/asif_cstean" target="_blank"><img src="images/HackerRank.png" width="150" height="30"></a>
+<a href="https://stackoverflow.com/story/asifnewaz" download><img src="images/Stackoverflow.png" width="180" height="30"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:mail.asifnewaz@gmail.com"><img src="images/Email.png" width="110" height="30"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/measifnewaz/" target="_blank"><img src="images/Linkedin.png" width="140" height="30" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/mail_asifnewaz" target="_blank"><img src="images/HackerRank.png" width="160" height="30"></a>
 
 # iOS Portfolio
 Professional iOS Engineer with 3+ years experience. 
