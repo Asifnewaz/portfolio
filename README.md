@@ -5,13 +5,13 @@ Professional iOS Engineer with 3+ years experience.
 I have spent my career leading client-side iOS development.
 I have done multiple iOS applications ranging from social apps, classified ads, E-Wallet , productivity etc. I have been very enthusiastic and passionate about my field and exploring more and more knowledge in it.
 .
-# [Hidebox](https://itunes.apple.com/ph/app/hidebox/id1408444079?mt=8)
-An innovative, quick and easy way to keep track of your possessions giving you the ease of having the information on you when you need it the most.
+# [CashBaba](https://apps.apple.com/us/app/cashbaba-bd/id1352887969)
+CashBaba e-wallet enables you to move Cashless. It can manage all your bank accounts and credit cards in your mobile and can process payments anywhere at anytime. It provides a simple and reliable way to manage your money on the go at low cost. 
 
-I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture (MVVM-Coordinators). Hidebox is built with Xcode and written entirely in Swift 5. It utilizes Auto Layout for UI design. Hidebox is my ongoing project.
+I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture (MVVM). CashBaba is built with Xcode and written entirely in Swift 5. It utilizes Auto Layout for UI design. CashBaba is my ongoing project.
 
 ### My Role ###
-Senior iOS developer Communicating with client, understanding requirements and sprint planning.
+Design, develop, understanding requirements and sprint planning.
 
 ### Technologies ###
 * Swift(4-5)
@@ -21,16 +21,12 @@ Senior iOS developer Communicating with client, understanding requirements and s
 * Photos
 * Push Notifications
 * Alamofire
-* Keychain
-* GoogleMaps
 * Firebase
-* Kingfisher
-* Hero
+* Face id and thumb Sign in enabled
 * Lottie-Animations
-* GoogleSignIn
-* FBSDKLoginKit
+
 <p align="center">
-<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB1.jpg" width="230"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB2.jpg" width="230" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/Hidebox/HB3.jpg" width="230" title="iPad version">
+<a href="images/CB.gif"><img src="images/CB.gif" title="E-Wallet"/></a>
 </p>
 
 # [Slick](Under development)
