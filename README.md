@@ -117,7 +117,7 @@ Date extraction from response data
 Easy to use customised action sheet picker inspired by UIAlertController
 
 <p align="center">
-<a href="https://imgflip.com/gif/40vynj"><img src="https://imgflip.com/gif/40vynj" title="made at imgflip.com"/></a>
+<a href="images/CB.gif"><img src="images/CB.gif" title="E-Wallet"/></a>
 </p>
 
 ## Contributions/Link 
