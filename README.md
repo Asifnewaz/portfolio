@@ -23,7 +23,7 @@ Design, develop, understanding requirements and sprint planning.
 * Alamofire
 * Firebase
 * Face id and thumb Sign in enabled
-* Lottie-Animations
+
 
 <p align="center">
 <a href="images/CB.gif"><img src="images/CB.gif" title="E-Wallet"/></a>
@@ -54,10 +54,6 @@ Design, develop, understanding requirements and sprint planning.
 * 3D touch enabled 
 * AFNetworking
 
-
-<p align="center">
-<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/uploadUrl.png" width="150" title="Post Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/unnamed.png" width="150" title="Rate Article">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/profile.png" width="150" title="User Profile">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/commet2.png" width="150" title="Comments">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/jwd-ali/IOS-Portfolio/blob/master/images/Slick/IMG_7344.PNG" width="150" title="Trending">
-</p>
 
 
 ## Contributions/Link 
